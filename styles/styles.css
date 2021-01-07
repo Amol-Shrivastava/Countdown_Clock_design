@@ -108,7 +108,6 @@ body {
     -webkit-box-flex: 0;
         -ms-flex: 0 0 calc(25% - (3 * var(--lg-space)));
             flex: 0 0 calc(25% - (3 * var(--lg-space)));
-    border: 2px solid yellow;
   }
 }
 
